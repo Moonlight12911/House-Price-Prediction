@@ -6,9 +6,7 @@ An interactive Machine Learning web application that predicts residential house 
 
 ## 🚀 Live Demo
 
-Coming Soon...
-
----
+[![Live Demo](https://img.shields.io/badge/Live-Demo-red?logo=streamlit)](https://house-price-prediction-12911.streamlit.app/)---
 
 ## 📖 Project Overview
 
