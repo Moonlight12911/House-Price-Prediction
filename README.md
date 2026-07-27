@@ -2,11 +2,8 @@
 
 An interactive Machine Learning web application that predicts residential house prices based on property features using a trained **Linear Regression** model.
 
----
+[![View Live Demo](https://img.shields.io/badge/🚀%20View-Live%20Demo-FF4B4B?style=for-the-badge&labelColor=222222)](https://house-price-prediction-12911.streamlit.app/)
 
-## 🚀 Live Demo
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-red?logo=streamlit)](https://house-price-prediction-12911.streamlit.app/)---
 
 ## 📖 Project Overview
 
@@ -128,23 +125,6 @@ Model Performance:
 
 ---
 
-## 📂 Project Structure
-
-```text
-House-Price-Prediction/
-│
-├── app.py
-├── model.pkl
-├── Housing_Cleaned.csv
-├── requirements.txt
-├── README.md
-├── .gitignore
-├── notebooks/
-└── screenshots/
-```
-
----
-
 ## ⚙️ Installation
 
 Clone the repository:
@@ -170,22 +150,6 @@ Run the application:
 ```bash
 python -m streamlit run app.py
 ```
-
----
-
-## 📸 Screenshots
-
-_Add screenshots of the application here after deployment._
-
----
-
-## 👨‍💻 Author
-
-**Mukesh Kumhar**
-
-BCA Student | Machine Learning Enthusiast
-
----
 
 ## 📄 License
 
