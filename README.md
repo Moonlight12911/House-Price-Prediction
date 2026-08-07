@@ -3,7 +3,7 @@
 An interactive Machine Learning web application that predicts residential house prices based on property features using a trained **Linear Regression** model.
 
 [![View Live Demo](https://img.shields.io/badge/🚀%20View-Live%20Demo-FF4B4B?style=for-the-badge&labelColor=222222)](https://house-price-prediction-12911.streamlit.app/)
-
+![House Price Prediction](https://raw.githubusercontent.com/Moonlight12911/House-Price-Prediction/main/image.png)
 
 ## 📖 Project Overview
 
